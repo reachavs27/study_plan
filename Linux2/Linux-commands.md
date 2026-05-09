@@ -1,5 +1,5 @@
 # <U> In Linux we have 8 types of commands </U>
-    Type of commands :
+# Type of commands : <H2>
                1. Syetem commands
                2. Hardware commands 
                3. File commands
