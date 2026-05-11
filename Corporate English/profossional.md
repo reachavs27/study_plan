@@ -1,3 +1,29 @@
+Interesting - fascinating 
+Difficult - challenging
+Easy - effortless
+Common - widespread
+clear - transparent
+Busy - Occupied
+Arrogant - pompous
+strong - fierce
+Not important - trival
+Kind - generous
+worried - apprehensive
+Try - endeavour
+peacocking - peacocking just to impress others
+practical - pragmatic
+terrified  - petrified
+calmness - equipoise
+divided - dichotomous
+unpredictable - mercurial
+satisfied but not satiated - I am very happy for what i have achived but hunger to achieve more
+God's favourite child - A person who is lucky
+All Hell broke loose - Everything was out of control
+This too shall pass  - Nothing is permanent
+to be a rock - To be strong in difficult situation
+
+
+
 <img width="827" height="524" alt="image" src="https://github.com/user-attachments/assets/406472b3-001c-4571-806f-bacc1f0a456e" />
 <img width="479" height="519" alt="image" src="https://github.com/user-attachments/assets/22721346-d543-4a71-acdf-a09874d90efe" />
 <img width="483" height="272" alt="image" src="https://github.com/user-attachments/assets/822bc4ba-c0d8-4c4c-9df3-c0cead584bfa" />
