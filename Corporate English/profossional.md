@@ -1,26 +1,28 @@
-Interesting - fascinating 
-Difficult - challenging
-Easy - effortless
-Common - widespread
-clear - transparent
-Busy - Occupied
-Arrogant - pompous
-strong - fierce
-Not important - trival
-Kind - generous
-worried - apprehensive
-Try - endeavour
-peacocking - peacocking just to impress others
-practical - pragmatic
-terrified  - petrified
-calmness - equipoise
-divided - dichotomous
-unpredictable - mercurial
-satisfied but not satiated - I am very happy for what i have achived but hunger to achieve more
-God's favourite child - A person who is lucky
-All Hell broke loose - Everything was out of control
-This too shall pass  - Nothing is permanent
-to be a rock - To be strong in difficult situation
+
+
+* Interesting - fascinating 
+* Difficult - challenging
+* Easy - effortless
+* Common - widespread
+* clear - transparent
+* Busy - Occupied
+* Arrogant - pompous
+* strong - fierce
+* Not important - trival
+* Kind - generous
+* worried - apprehensive
+* Try - endeavour
+* peacocking - peacocking just to impress others
+* practical - pragmatic
+* terrified  - petrified
+* calmness - equipoise
+* divided - dichotomous
+* unpredictable - mercurial
+* satisfied but not satiated - I am very happy for what i have achived but hunger to achieve more
+* God's favourite child - A person who is lucky
+* All Hell broke loose - Everything was out of control
+* This too shall pass  - Nothing is permanent
+* To be a rock - To be strong in difficult situation
 
 
 
