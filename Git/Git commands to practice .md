@@ -1,0 +1,12 @@
+# GIT Commands to practice : 
+   
+   *Git - Global information tracter 
+   *Git is also known as version control system (vcs) or source code management (scm)
+   *v1 --> V2 --> V3
+   *In these V1 --> V2 --> V3 developer can make any changes . all these information can be tracked in one GIT . who mada what what changes . All these info can be seen in git.
+   *We can Roll-back to any version we want we can do this by using GIT.
+
+
+# What is Git? <H3>
+  *Git is nothing but global information tracker it is used to track the files also it will maintain the multiple versions of the same file.
+  *It is platform 
